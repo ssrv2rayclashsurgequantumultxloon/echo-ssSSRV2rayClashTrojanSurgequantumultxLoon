@@ -4,6 +4,7 @@
 
 
 #薯条 (月付20到150) https://sgi.anycast.gay/auth/register?code=UUy7
+
 客户端：
  SS： https://github.com/shadowsocks/shadowsocks-android/releases
 
